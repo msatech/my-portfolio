@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name":"Deependra.",
+    "description":"Designer from the India, focusing all my efforts on creating useful software products. One day I hope to make something that Impress my Family.",
+    "image":"https://firebasestorage.googleapis.com/v0/b/deependra-e6663.appspot.com/o/deep.jpg?alt=media&token=3c1c9fda-6c16-440e-a13b-ccf8a330b9ed",
+    "bio":"Designer from the India, focusing all my efforts on creating useful software products. One day I hope to make something that Impress my Family.",
+    "contactmessage":"",
+    "email": "deependrakumar0499@gmail.com",
+    "phone": "9717418634",
+    "github":"#",
+    "project":"#",
+    "address":{
+      "street":"Sector 16 Faridabad",
+      "city":"Faridabad",
+      "state":"Harayana",
+      "zip": "121002"
+    },
+    "website": "#",
+    "resumedownload":"https://firebasestorage.googleapis.com/v0/b/deependra-e6663.appspot.com/o/Deependra%20Kumar%20Resume.pdf?alt=media&token=eeb4e3a7-8c0d-4ea0-86c1-7ee9b2f49fa7",
+    "social":[
+      
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/Deepend72247711",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/deependra-kumar-7b29021b6/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/deependra.py/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/msatech",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University # J.C. Bose University of Science & Technology",
+        "degree":"B.Tech in Computer Science and Engineering ",
+        "graduated":"April 2022",
+        "description":""
+      },
+      {
+        "school":"School # kendriya vidyalaya No. 1 Faridabad",
+        "degree":"Class 12",
+        "graduated":"March 2018",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Alpha Cyber Solution",
+        "title":"Junior Full Stack Developer",
+        "years":"March 2020 - present",
+        "description":"Worked on Some Awesome Projects like VACSC, The Study IAS (study By Manikant singh) Some US Based Projects Also."
+      }
+      
+    ],
+    "skills":[
+      
+      {
+        "name": "Django",
+        "level": "75%"
+      },
+      {
+        "name": "Django Rest API",
+        "level": "60%"
+      },
+      
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name": "C / C++",
+        "level": "65%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"The Study By Manikant Singh",
+        "category":"Education Website",
+        "image":"https://firebasestorage.googleapis.com/v0/b/deependra-e6663.appspot.com/o/01.PNG?alt=media&token=8d6a9171-2805-48ef-923e-82505267fae9",
+        "url":"https://www.thestudyias.net/"
+      },
+      {
+        "title":"VACS PVT. LTD.",
+        "category":"Common Service Center",
+        "image":"https://firebasestorage.googleapis.com/v0/b/deependra-e6663.appspot.com/o/02.PNG?alt=media&token=2447d293-b3b4-45f3-93ce-8b1d0168d302",
+        "url":"https://vacsc.com/"
+      },
+      {
+        "title":"DFW Limo Ride",
+        "category":"Limo Services In Texas",
+        "image":"https://firebasestorage.googleapis.com/v0/b/deependra-e6663.appspot.com/o/03.PNG?alt=media&token=84a941b8-4b9e-451b-90f5-0ef26d3aaf27",
+        "url":"http://dfwlimoride.com/"
+      }
+      
+    ]
+  }
+}

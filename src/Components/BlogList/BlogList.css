@@ -1,0 +1,38 @@
+
+
+.bloglist{
+    width: 100%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 25px;
+    background-color: #fff;
+    padding: 30px 0px;
+
+}
+
+.bloglist h2{ 
+    color: #3c4852;
+}
+
+.bloglist__addblog{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    align-items: center;
+}
+    
+.blog__table{
+    height: 250px;
+    width: 90%;
+    margin-top: 20px;
+    
+}
+
+.addblog__icon{
+    color: #3c4852;
+    font-size: 40px !important;
+    
+}
